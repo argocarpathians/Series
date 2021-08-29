@@ -1,5 +1,5 @@
 {
-  "title": "Alone with You",
+  "title": "AOT no Requiem",
   "description": "Alternative ending to the Attack on Titan manga series adapting Akatsuki no Requiem Theory",
   "artist": "AOTnR Staff",
   "author": "AOTnR Staff",
@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Part 1",
-      "volume": "1",
+      "volume": "",
       "groups": {
         "AOTnoR Staff": "/proxy/api/imgur/chapter/r54wRAP/"
       },

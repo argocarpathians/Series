@@ -1,0 +1,17 @@
+{
+  "title": "The Girl They Called a Goddess",
+  "description": "Alternative version of the conversation between Eren and Historia in chapter 130.",
+  "artist": "Enkumo",
+  "author": "Enkumo",
+  "cover": "https://i.imgur.com/y7E7NQm.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "LibelRawr": "/proxy/api/imgur/chapter/CbbeWQi/"
+      },
+      "last_updated": "1623448838"
+    }
+  }
+}

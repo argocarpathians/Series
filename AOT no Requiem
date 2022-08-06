@@ -1,0 +1,33 @@
+{
+  "title": "AOT no Requiem",
+  "description": "Alternative ending to the Attack on Titan manga series adapting the Akatsuki no Requiem Theory.",
+  "artist": "AOTNOREQUIEM",
+  "author": "AOTNOREQUIEM",
+  "cover": "https://i.imgur.com/OoaozoG.jpg",
+  "chapters": {
+    "": {
+      "title": "Part 1",
+      "volume": "",
+      "groups": {
+        "AOTNOREQUIEM": "/proxy/api/imgur/chapter/r54wRAP/"
+      },
+      "last_updated": "1622340000"
+    },
+   "": {
+      "title": "Part 2",
+      "volume": "",
+      "groups": {
+        "AOTNOREQUIEM": "/proxy/api/imgur/chapter/4rN0Itu/"
+      },
+      "last_updated": "1631158680"
+    },
+   "": {
+      "title": "Part 3",
+      "volume": "",
+      "groups": {
+        "AOTNOREQUIEM": "/proxy/api/imgur/chapter/CLzOK9Z/"
+      },
+      "last_updated": "1659751800"
+      }    
+  }
+}
